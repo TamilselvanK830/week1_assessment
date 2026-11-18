@@ -1,40 +1,47 @@
 # Week 1 Assessment – Employee Data Analysis
 
 ## Project Overview
+
 This project analyzes employee data using Python, Pandas, and NumPy.
 
 ## Project Structure
-data/ – Employee CSV dataset
-notebooks/ – Jupyter analysis notebook
-reports/ – Analysis reports
-src/ – Exported Python script
+
+- `data/` – Employee CSV dataset
+- `notebooks/` – Jupyter analysis notebook
+- `reports/` – Analysis reports
+- `src/` – Exported Python script
 
 ## Setup Instructions
 
 1. Clone the repository:
-   bash
+   ```bash
    git clone https://github.com/TamilselvanK830/week1_assessment.git
-   
+   ```
+
 2. Navigate into the project:
-   bash
+   ```bash
    cd week1_assessment
-   
+   ```
+
 3. Create a virtual environment:
-   bash
+   ```bash
    python -m venv .venv
-   
+   ```
+
 4. Activate it in Windows PowerShell:
-   powershell
+   ```powershell
    .venv\Scripts\Activate.ps1
-   
+   ```
+
 5. Install required packages:
-   bash
+   ```bash
    pip install pandas numpy jupyter nbconvert
-   
+   ```
+
 6. Open the notebook:
-   bash
+   ```bash
    jupyter notebook
-   
+   ```
 
 ## Five-Line Summary of Findings
 
